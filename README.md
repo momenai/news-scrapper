@@ -6,16 +6,19 @@ Most popular Turkish newspaper websites have been scraped and
 extracted for the main news in that websites and ignored any things else. Eight objects have been created for each website, Milliyet, Hurriyet, Sabah, Odatv, BBC, CNN, sozcu and Al jazeera. 
 
 Eight ​graphs have been plotted for each website to show increasing of links by time during 24 hours. X-axis is shown the time for compiling program and y-axis is shown the number of new links at that time.Graphs are plotting as following:
-![My Image](imeges\graph1.jpg)
+![My Image](imeges/graph1.jpg)
 
-![My Image](imeges\graph2.jpg)
-![My Image](imeges\graph3.jpg)
-![My Image](imeges\graph4.jpg)
+![My Image](imeges/graph2.jpg)
+![My Image](imeges/graph3.jpg)
+![My Image](imeges/graph4.jpg)
 
 How the aglorithm works: 
-![My Image](imeges\algo.jpg)
+![My Image](imeges/algo.jpg)
 
 Mangodb 
-![My Image](imeges\db.png)
+![My Image](imeges/db.png)
+
+
+
 
 
